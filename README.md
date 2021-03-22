@@ -4,7 +4,7 @@ Em breve implemento mais funcionalidades<br>
 
 # Requisição
 É necessario ter os pacotes .NET instalados para executar arquivos .cs<br>
-Pode ser instalar no site oficial da microsoft
+Pode ser instalado no site oficial da microsoft
 
 # Atenção!
 Script feito apenas para teste de pagamento para softwares em desenvolvimento
