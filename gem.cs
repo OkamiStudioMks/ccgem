@@ -3,7 +3,7 @@ using System.Threading;
 
 class Gem{
     static void Main(){
-        // Banner
+        // Banner *Pode ser usado uma função ou metodo para chamar*
         Console.Clear();
         Console.ForegroundColor = ConsoleColor.Magenta;
         Console.WriteLine("  _____");
@@ -36,7 +36,7 @@ class Gem{
         Console.Write("]");
         Console.WriteLine("!gem -bin\n\n");
 
-
+        // Definição das variaveis
         int[] numbers = new int[]{0,1,2,3,4,5,6,7,8,9};
         int[] card = new int[16];
         int[] Yy = new int[2];
@@ -103,10 +103,10 @@ class Gem{
                             for(i=0; i<10; i++){cc = Convert.ToInt32(random.Next(9));card[i] =cc;}
                             Console.WriteLine(carding+card[0]+card[1]+card[2]+card[3]+card[4]+card[5]+card[6]+card[7]+card[8]+card[9]+"|"+dateMm+"|"+dateYy+"|"+valid);
                             card[0]=card[1]=card[2]=card[3]=card[4]=card[5]=card[6]=card[7]=card[8]=card[9];
-                        }
+                        }   // zeramento do array sempre que executado... é uma gambiarra mas vou arrumar uma maneira mais prática
                     }
                 }
-            }else if(consoleComand=="!exit"){break;}
+            }else if(consoleComand=="!exit"){break;} // comando que termina a execução
         }
     }
 }
