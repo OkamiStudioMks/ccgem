@@ -7,5 +7,5 @@ Em breve implemento mais funcionalidades<br>
 Pode ser instalado no site oficial da microsoft
 
 # Atenção!
-Script feito apenas para teste de pagamento para softwares em desenvolvimento
+Script feito apenas para teste de pagamento para softwares em desenvolvimento<br>
 Não use para fins ilegais!
