@@ -3,7 +3,7 @@ using System.Threading;
 
 class Gem{
     static void Main(){
-        // Banner *Pode ser usado uma função ou metodo para chamar*
+        // Banner *Pode ser usado uma função ou metodo para chamar
         Console.Clear();
         Console.ForegroundColor = ConsoleColor.Magenta;
         Console.WriteLine("  _____");
