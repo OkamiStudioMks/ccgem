@@ -10,3 +10,4 @@ Pode ser instalado no site oficial da microsoft
 Script feito apenas para teste de pagamento para softwares em desenvolvimento<br>
 Não use para fins ilegais!
  
+ 
